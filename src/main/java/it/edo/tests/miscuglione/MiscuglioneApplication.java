@@ -9,5 +9,4 @@ public class MiscuglioneApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(MiscuglioneApplication.class, args);
 	}
-
 }
