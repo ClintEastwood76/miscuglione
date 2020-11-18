@@ -1,6 +1,7 @@
 package it.edo.tests.miscuglione.model;
 
 import lombok.Data;
+import lombok.Setter;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
